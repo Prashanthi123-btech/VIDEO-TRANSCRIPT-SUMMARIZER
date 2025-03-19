@@ -4,4 +4,3 @@ transformers
 faster-whisper
 yt-dlp
 deep-translator
-youtube-dl==2021.12.17
